@@ -38,7 +38,7 @@
 
 ## AWS EX2 VM 정보
 - Private Key 파일
-  - Download Link (Drop Box): https://www.dropbox.com/scl/fo/igpa4tbkgkypqdendiogs/ABPVGJNRfJJLqg60oMlD8Jc?rlkey=ur6u9un1uma12myaw0uju38lz&st=hql86dj4&dl=0
+  - Download Link (Drop Box): [https://www.dropbox.com/scl/fo/igpa4tbkgkypqdendiogs/ABPVGJNRfJJLqg60oMlD8Jc?rlkey=ur6u9un1uma12myaw0uju38lz&st=hql86dj4&dl=0](https://www.dropbox.com/scl/fo/igpa4tbkgkypqdendiogs/ABPVGJNRfJJLqg60oMlD8Jc?rlkey=8fxs7cexegp3m3pntkzmh4xx9&st=alerq7zg&dl=0)
   - Password: 조교 문의
   
 | No. | 이름   | VM       | IP                | id       | Private Key 파일   |
